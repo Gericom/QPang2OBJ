@@ -1,4 +1,4 @@
 Tool for converting models of QPang
 
-Usage: QPang2OBJ [ModelPath]
+Usage: QPang2OBJ [ModelPath]<br>
 Creates out.obj
